@@ -1,4 +1,4 @@
-# Julie-JS-Project21-Easy-PUT-DELETE-Ajax-ES5
+# Julie-JS-Project21-Easy-PUT-Ajax-ES5
 
 This code runs a simple PUT request on page load using only ES5 in an asynchronous manner. It points to the JSON Placeholder website, and results are displayed only in the console.
 
